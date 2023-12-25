@@ -1,0 +1,6 @@
+scikit-learn
+umap-learn
+jupyterlab
+matplotlib
+seaborn
+bokeh
